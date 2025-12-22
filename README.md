@@ -1,6 +1,6 @@
-# Uipath_ai_automation_projects
 
-# AI Automation & Agent-Based Projects (UiPath Studio Web)
+
+# AI Automation & Agent-Based Projects 
 
 This repository contains a curated collection of **AI-powered automation and agent-based projects** developed **exclusively using UiPath Studio Web**.
 
