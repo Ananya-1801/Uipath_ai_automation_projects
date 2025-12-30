@@ -1,0 +1,11 @@
+student_id,name,program,general,reserved,reference,record_verified
+UG1023,Aarav Mehta,UG,2,0,0,True
+PG2045,Neha Sharma,PG,4,0,0,True
+PHD3091,Rohit Verma,PhD,6,0,0,True
+UG1057,Ananya Iyer,UG,1,0,0,True
+UG1092,Kunal Singh,UG,3,0,0,True
+PG2088,Priya Nair,PG,2,0,0,True
+PG2124,Arjun Patel,PG,5,0,0,True
+PHD3146,Sneha Kulkarni,PhD,4,0,0,True
+PHD3189,Vikram Rao,PhD,6,0,0,True
+UG1118,Riya Chatterjee,UG,0,0,0,True
